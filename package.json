@@ -1,5 +1,11 @@
 {
   "name": "json-schema-to-rescript",
   "version": "0.0.0",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "peerDependencies": {
+    "rescript": "*"
+  },
   "packageManager": "yarn@3.2.3"
 }
