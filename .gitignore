@@ -9,3 +9,11 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
+
+lib/
+.DS_Store
+.bsb.lock
+.merlin
+
+*.bs.js
+*.gen.ts

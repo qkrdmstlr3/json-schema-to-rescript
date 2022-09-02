@@ -1,6 +1,10 @@
 {
   "name": "json-schema-to-rescript",
   "version": "0.0.0",
+  "scripts": {
+    "build": "rescript build -with-deps",
+    "watch": "rescript build -with-deps -w"
+  },
   "devDependencies": {
     "rescript": "^9.1.4"
   },
